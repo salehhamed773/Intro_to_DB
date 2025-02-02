@@ -1,3 +1,4 @@
+#["USE alx_book_store;"]
 ### Explanation of the SQL Code
 
 - **Database Selection**: The script begins by selecting the `alx_book_store` database to ensure that the command is executed in the correct context.
