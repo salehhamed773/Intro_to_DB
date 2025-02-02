@@ -1,3 +1,5 @@
+#["125 Happiness  Ave."]
+# ["126 Happiness  Ave."]
 # ["INSERT INTO customer", "124 Happiness  Ave."]
 INSERT INTO Customers (customer_id, customer_name, email, address)
 VALUES 
